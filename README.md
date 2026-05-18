@@ -38,7 +38,7 @@ CC BY-NC-SA 4.0 [https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt](h
 
 Fan-made 3D model
 
-Licensed only for my original modeling work under CC BY-NC 4.0
+Licensed only for my original modeling work under CC BY-NC-SA 4.0
 
 著作者情報を表示する必要があります。利用は非営利に限られます。改変した場合は二次著作物も元のライセンスで提供する必要があります。
 
