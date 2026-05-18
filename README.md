@@ -32,16 +32,15 @@
 
 ## ライセンスについて
 
----
-
 CC BY-NC-SA 4.0 [https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.ja)
 
 © original rights belong to Animation Company
+
 Fan-made 3D model
+
 Licensed only for my original modeling work under CC BY-NC 4.0
 
 著作者情報を表示する必要があります。利用は非営利に限られます。改変した場合は二次著作物も元のライセンスで提供する必要があります。
----
 
 ## コンタクト
 
