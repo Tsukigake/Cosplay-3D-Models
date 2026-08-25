@@ -20,7 +20,7 @@
 
 ・**Fate/Grand Order**
 
-    モルガン・ル・フェ
+    モルガン、アルクェイド
 
 ・**Sword-Art-Online**
 
